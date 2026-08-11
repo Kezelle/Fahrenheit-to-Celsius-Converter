@@ -3,8 +3,8 @@
 This program will enable the user to input temperature in Fahrenheit then it will show you the equivalent temperature in Celsius.
 
 # How to run it.
-Click the play button
-Input the temperature in Fahrenheit. Just type the number only.
+Click the play button.
+Input the temperature in Fahrenheit. (Just type the number only.)
 It should provide the equivalent temperature in Celsius.
 
 # One challenge that I debugged.
